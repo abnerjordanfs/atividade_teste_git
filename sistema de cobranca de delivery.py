@@ -1,4 +1,4 @@
-//
+
 distancia = float
 chovendo = bool
 
