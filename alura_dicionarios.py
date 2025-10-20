@@ -1,5 +1,5 @@
 #1.Crie um dicionário representando informações sobre uma pessoa, como nome, idade e cidade.
-dicionario_pessoas = [  {'nome':'jaspion', 'idade':20, 'cidade': 'russas'},
+dicionario_pessoas = [  {'nome':'helio', 'idade':20, 'cidade': 'russas'},
                         {'nome':'alfred', 'idade':44, 'cidade': 'manchester'},
                         {'nome':'clarck', 'idade':30, 'cidade': 'metropolis'}]
 
